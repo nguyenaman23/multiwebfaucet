@@ -17,7 +17,7 @@ $ git clone https://github.com/Musk-ID/multiwebfaucet
 $ cd multiwebfaucet
 $ php bot.php
 ```
-##### important to note
+##### note
 ```
 ~> Edit and fill string xxx in cfg.php with cookies
 ~> Take cookies on auto faucet page
