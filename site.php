@@ -9,22 +9,11 @@
 *
 */
 require "cfg.php";
-$data = [[
-"host"=>"mcmfaucets.xyz",
-"cookie"=>$mcm
-],[
-"host"=>"dragonfaucets.xyz",
-"cookie"=>$dragon
-],[
-"host"=>"bestautofaucet.com",
-"cookie"=>$best
-],[
-"host"=>"auto.xtrabits.click",
-"cookie"=>$xtra
-],[
-"host"=>"phoenixfaucets.xyz",
-"cookie"=>$phoenix
-],[
-"host"=>"jupiterfaucet.net",
-"cookie"=>$jupi
-]];
+$data = [
+  ["host"=>"mcmfaucets.xyz","cookie"=>$mcm],
+  ["host"=>"dragonfaucets.xyz","cookie"=>$dragon],
+  ["host"=>"bestautofaucet.com","cookie"=>$best],
+  ["host"=>"auto.xtrabits.click","cookie"=>$xtra],
+  ["host"=>"phoenixfaucets.xyz","cookie"=>$phoenix],
+  ["host"=>"jupiterfaucet.net","cookie"=>$jupi]
+];
