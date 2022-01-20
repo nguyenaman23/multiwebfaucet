@@ -12,12 +12,12 @@ $user_agent = "Mozilla/5.0 (Linux; Android 9; Redmi 6A) AppleWebKit/537.36 (KHTM
 /*
 @Cookie
 */
-$mcm="xxx";
-$dragon="xxx";
-$best="xxx";
-$xtra="xxx";
-$phoenix="xxx";
-$jupi="xxx";
+$mcm = "xxx";
+$dragon = "xxx";
+$best = "xxx";
+$xtra = "xxx";
+$phoenix = "xxx";
+$jupi = "xxx";
 
 
 
