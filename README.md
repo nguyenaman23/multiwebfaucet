@@ -13,7 +13,7 @@ $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install php
 $ termux-setup-storage
-$ git clone https://github.com/Musk-ID/multiwebfaucet
+$ git clone https://github.com/iewilmaestro/multiwebfaucet
 $ cd multiwebfaucet
 $ php bot.php
 ```
